@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+    >
+
+    <TextView
+        android:textColor="#000"
+        android:id="@+id/sub_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="标题"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/sub_trend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:text="潮流"
+        android:textColor="#a9a6a6"/>
+
+
+        <TextView
+            android:textSize="12sp"
+            android:textColor="#a9a6a6"
+            android:id="@+id/sub_year"
+            android:layout_below="@+id/sub_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/sub_year"
+        android:id="@+id/sub_iv2"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        />
+</RelativeLayout>
