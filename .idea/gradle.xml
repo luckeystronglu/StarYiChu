@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/citylist" />
             <option value="$PROJECT_DIR$/commonrefreshlayout" />
             <option value="$PROJECT_DIR$/inputsam" />
+            <option value="$PROJECT_DIR$/recyclerview_head" />
           </set>
         </option>
         <option name="myModules">
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/citylist" />
             <option value="$PROJECT_DIR$/commonrefreshlayout" />
             <option value="$PROJECT_DIR$/inputsam" />
+            <option value="$PROJECT_DIR$/recyclerview_head" />
           </set>
         </option>
       </GradleProjectSettings>

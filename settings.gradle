@@ -1,1 +1,1 @@
-include ':app', ':commonrefreshlayout', 'inputsam', 'citylist', 'citylib'
+include ':app', ':commonrefreshlayout', 'inputsam', 'citylist', 'citylib', ':recyclerview_head'
