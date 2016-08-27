@@ -105,6 +105,7 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                 return;
             }
             tv = (TextView)itemView.findViewById(R.id.tv_item);
+
         }
     }
 
