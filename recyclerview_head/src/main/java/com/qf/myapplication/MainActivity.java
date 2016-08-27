@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         //为RecyclerView添加HeaderView和FooterView
         setHeaderView(mRecyclerView);
         setFooterView(mRecyclerView);
+
     }
 
     private void initData() {
